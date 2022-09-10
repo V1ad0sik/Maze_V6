@@ -1,4 +1,3 @@
-from telnetlib import GA
 from Util.GameData import *
 from Util.EntityClass import *
 from Util.SDK import *
