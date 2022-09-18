@@ -1,4 +1,4 @@
 # Maze_V6
 Cheat for CS:GO
-![My Remote Image](https://disk.yandex.ru/i/UvSrytxDabFx7w)
 
+![Снимок](https://user-images.githubusercontent.com/80263093/190890198-b5c76504-535b-481e-9ee2-13db708719d6.PNG)
