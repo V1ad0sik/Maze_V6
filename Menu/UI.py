@@ -159,7 +159,7 @@ f"background-color: rgb({GlowESP.Color.R},{GlowESP.Color.G},{GlowESP.Color.B});\
         self.slider.setSingleStep(0)
         self.slider.setPageStep(0)
         self.slider.setProperty("value", 6)
-        self.slider.setSliderPosition(GlowESP.Line * 10)
+        self.slider.setSliderPosition(6)
         self.slider.setOrientation(QtCore.Qt.Horizontal)
         self.slider.setInvertedAppearance(False)
         self.slider.setInvertedControls(False)
