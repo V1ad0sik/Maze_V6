@@ -1,8 +1,5 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-from Tool.GlowESP import *
-from Tool.Chams import *
-
 _translate = QtCore.QCoreApplication.translate
 
 class Ui_Form(object):
