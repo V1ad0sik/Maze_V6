@@ -1,4 +1,5 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
+from Tool.GlowESP import *
 
 _translate = QtCore.QCoreApplication.translate
 
